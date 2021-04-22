@@ -13,5 +13,5 @@ Features:
 
 Important: Works only with SAP GUI for JAVA 
 
-<img width="1682" alt="Bildschirmfoto 2021-04-22 um 21 00 40" src="https://user-images.githubusercontent.com/82931359/115771208-f03aff00-a3ad-11eb-8f2a-9928607d7332.png">
+![1LogonScreen0001](https://user-images.githubusercontent.com/82931359/115772299-393f8300-a3af-11eb-907b-aa5e6e0e4c00.jpg)
 
